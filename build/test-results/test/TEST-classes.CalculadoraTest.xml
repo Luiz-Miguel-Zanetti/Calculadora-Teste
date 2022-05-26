@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="classes.CalculadoraTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-26T14:47:21" hostname="LAPTOP-5CGC8DC0" time="0.016">
+  <properties/>
+  <testcase name="somaTeste()" classname="classes.CalculadoraTest" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
